@@ -3,9 +3,9 @@ class Database
 {
      
     private $host = "localhost";
-    private $db_name = "bank";
-    private $username = "root";
-    private $password = "";
+    private $db_name = "primetou_osit";
+    private $username = "primetou_osit";
+    private $password = "primetou_osit";
     
     public $conn;
      

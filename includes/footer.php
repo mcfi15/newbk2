@@ -12,12 +12,7 @@
                                             <!-- <img src="img/logo.png" alt="Logo"> -->
                                         </a>
                                         <p class="text-white mb-4">Building on a tradition of excellence in community banking that continues to offer clients a complete range of financial services, including banking, lending, insurance, trust and wealth management solutions. We invite you to learn more about us and our commitment to our clients.</p>
-                                        <!-- <div class="footer-btn d-flex">
-                                            <a class="btn btn-md-square rounded-circle me-3" href="#"><i class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-md-square rounded-circle me-3" href="#"><i class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-md-square rounded-circle me-3" href="#"><i class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-md-square rounded-circle me-0" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </div> -->
+                                        
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-lg-6 col-xl-3">
@@ -87,10 +82,10 @@
                             </div>
                         </div>
                         <div class="pt-5" style="border-top: 1px solid rgba(255, 255, 255, 0.08);">
-                            <div class="row g-0">
+                            <div class="row g-4">
                                 <div class="col-12">
                                     <div class="row g-4">
-                                        <div class="col-lg-6 col-xl-4">
+                                        <div class="col-lg-6 col-xl-6">
                                             <div class="d-flex">
                                                 <div class="btn-xl-square bg-primary text-white rounded p-4 me-4">
                                                     <i class="fas fa-map-marker-alt fa-2x"></i>
@@ -101,7 +96,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-6 col-xl-4">
+                                        <div class="col-lg-6 col-xl-6">
                                             <div class="d-flex">
                                                 <div class="btn-xl-square bg-primary text-white rounded p-4 me-4">
                                                     <i class="fas fa-envelope fa-2x"></i>
@@ -112,7 +107,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-6 col-xl-4">
+                                        <div class="col-lg-6 col-xl-6">
                                             <div class="d-flex">
                                                 <div class="btn-xl-square bg-primary text-white rounded p-4 me-4">
                                                     <i class="fa fa-phone-alt fa-2x"></i>
@@ -137,20 +132,7 @@
                                 <input class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter your email">
                                 <button type="button" class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">SignUp</button>
                             </div>
-                            <div class="d-flex flex-shrink-0">
-                                <div class="footer-btn">
-                                    <a href="<?php echo $siteemail; ?>" class="btn btn-lg-square rounded-circle position-relative wow tada" data-wow-delay=".9s">
-                                        <i class="fa fa-envelope fa-2x"></i>
-                                        <div class="position-absolute" style="top: 2px; right: 12px;">
-                                            <span><i class="fa fa-comment-dots text-secondary"></i></span>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="d-flex flex-column ms-3 flex-shrink-0">
-                                    <span>Call to Our Experts</span>
-                                    <a href="mailto:<?php echo $siteemail; ?>"><span class="text-white">Free: <?php echo $siteemail; ?></span></a>
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -167,12 +149,7 @@
                     <div class="col-md-6 text-center text-md-end mb-md-0">
                         <span class="text-body"><a href="#" class="border-bottom text-white"><i class="fas fa-copyright text-light me-2"></i> 2024 <?php echo $sitename; ?></a>, All right reserved.</span>
                     </div>
-                    <!-- <div class="col-md-6 text-center text-md-start text-body"> -->
-                        <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
-                        <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
-                        <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                        <!-- Designed By <a class="border-bottom text-white" href="https://htmlcodex.com">HTML Codex</a> Distributed By <a class="border-bottom text-white" href="https://themewagon.com">ThemeWagon</a>
-                    </div> -->
+                    
                 </div>
                 
             </div>

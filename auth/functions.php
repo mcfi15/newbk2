@@ -1,9 +1,9 @@
 <?php
 
-$sitename = "First Capcase Finance";
-$siteemail = "support@fastexportservice.com";
+$sitename = "United Primetouch International Bank";
+$siteemail = "support@united.primetouchinterb.cc";
 $siteaddress = "address here";
-$sitephone = "phone number here";
-$siteurl = "https://websiteurl.com";
-$host = "mail.fastexportservice.com";
-$password = "rextheadmin@@";
+$sitephone = "";
+$siteurl = "https://united.primetouchinterb.cc/";
+$host = "united.primetouchinterb.cc";
+$password = "ositatheadmin@@";

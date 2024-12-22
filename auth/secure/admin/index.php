@@ -1313,7 +1313,7 @@ if(isset($_POST['debit'])){
   }
 }
 
-$con=mysqli_connect('localhost', 'root', '', 'bank');
+$con=mysqli_connect('localhost', 'primetou_osit', 'primetou_osit', 'primetou_osit');
 // Check connection
 if (mysqli_connect_errno())
 {
